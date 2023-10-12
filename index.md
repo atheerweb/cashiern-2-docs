@@ -3,23 +3,15 @@
 layout: home
 
 hero:
-  name: "cashiern-2-docs"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Cashiern 2"
+  text: "Documentation"
+  tagline: for the frontend team
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get Started
+      link: /components/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Components
+    details: a detailed documentation for all the components used in the project
 ---
-
